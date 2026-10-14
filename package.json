@@ -1,0 +1,12 @@
+{
+  "name": "council-playground",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A tiny slug utility used as the end-to-end test bed for Open Council solo mode.",
+  "type": "commonjs",
+  "main": "src/slug.js",
+  "scripts": {
+    "test": "node --test test/"
+  },
+  "license": "MIT"
+}
